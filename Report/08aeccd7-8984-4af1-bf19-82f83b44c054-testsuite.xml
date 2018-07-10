@@ -1,0 +1,70 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1531186577296" stop="1531186622682">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1531186577296" status="passed" stop="1531186622682">
+      <name>Test_login.test_login[test_login_001-13488834010-159357-\u6210\u529f-\u767b\u5f55\u6210\u529f-1]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15476-MainThread"/>
+        <label name="host" value="MicroWin10-1721"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1531186606820" status="passed" stop="1531186607762">
+          <name>点击我的</name>
+          <title>点击我的</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1531186607763" status="passed" stop="1531186608517">
+          <name>点击登录注册</name>
+          <title>点击登录注册</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1531186608517" status="passed" stop="1531186616228">
+          <name>输入用户信息</name>
+          <title>输入用户信息</title>
+          <attachments>
+            <attachment source="11c942aa-7893-41f7-ba71-1386660ff2e6-attachment.txt" title="描述" type="text/plain"/>
+            <attachment source="95b44fba-8803-44a0-b1ae-7a03bbfc4ebb-attachment.txt" title="描述" type="text/plain"/>
+            <attachment source="92c2e318-cddc-42a4-822b-a81761f58d1c-attachment.txt" title="描述" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1531186618503" status="passed" stop="1531186618545">
+          <name>判断的我的订单存在状态</name>
+          <title>判断的我的订单存在状态</title>
+          <attachments>
+            <attachment source="dbc4ed82-85d6-4d9e-b8e1-13f2658e415f-attachment.txt" title="状态" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1531186618545" status="passed" stop="1531186618589">
+          <name>点击设置按钮</name>
+          <title>点击设置按钮</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1531186618589" status="passed" stop="1531186621074">
+          <name>点击安全退出</name>
+          <title>点击安全退出</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1531186621074" status="passed" stop="1531186622682">
+          <name>点击关闭页面</name>
+          <title>点击关闭页面</title>
+          <attachments>
+            <attachment source="2dd71ba9-2e11-47a2-9580-34a769e3ac4f-attachment.txt" title="状态" type="text/plain"/>
+            <attachment source="053647d8-7e41-4426-86a1-a8d0f5a0d868-attachment.txt" title="状态失败原因:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
